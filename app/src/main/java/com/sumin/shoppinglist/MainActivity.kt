@@ -7,15 +7,5 @@ class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
-        justTest()
-    }
-
-    private fun justTest() {
-        println("Hallo cocks!")
-        test()
-    }
-
-    private fun test() {
-        println("PEPS")
     }
 }
