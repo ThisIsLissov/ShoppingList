@@ -12,5 +12,10 @@ class MainActivity : AppCompatActivity() {
 
     private fun justTest() {
         println("Hallo cocks!")
+        test()
+    }
+
+    private fun test() {
+        println("PEPS")
     }
 }
